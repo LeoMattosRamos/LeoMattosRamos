@@ -3,6 +3,7 @@
 Sou apaixonado por esportes, dados e tecnologia.
 
 🎓 Sou engenheiro de formação, mas foi analisando dados que eu me encontrei (até o momento kkkk).
+
 Comecei minha carreira em vendas técnicas, onde aprendi a escutar com atenção e entender o que realmente importa para os clientes. Foi ali que descobri como a análise de dados pode fazer a diferença na tomada de decisões e trazer resultados reais para o negócio.
 Desde então, venho atuando na transformação de dados brutos em insights claros e ações efetivas.
 
