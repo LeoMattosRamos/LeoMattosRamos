@@ -25,7 +25,7 @@ Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Pyth
 Se quiser falar sobre dados, machine learning, IA ou qualquer outra coisa, só chamar:
 
 📫 [LinkedIn](https://www.linkedin.com/in/leonardo-de-mattos-ramos-252433199/)  
-📧 leonardo.mattosramos@gmail.com
+📧 leo.mattosramos@gmail.com
 ---
 
 🧠 Em aprendizado constante. Cada projeto é um passo a mais.  
