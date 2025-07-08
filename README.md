@@ -24,12 +24,10 @@ Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Pyth
 
 Outra coisa que gosto muito é de conversar. Então se quiser falar sobre dados, machine learning, IA ou qualquer outra coisa, só chamar:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-de-mattos-ramos-252433199/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="30" style="vertical-align:middle;"/>
-    <span style="margin-left: 8px; font-size:16px;">Acesse meu LinkedIn</span>
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/leonardo-de-mattos-ramos-252433199/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn" width="20" style="margin-right: 8px;">
+  <span style="font-size: 16px; color: #0A66C2;">Acesse meu LinkedIn</span>
+</a>
 
 
 📧 leo.mattosramos@gmail.com
