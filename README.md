@@ -15,7 +15,7 @@ Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Pyth
 
 ## 🚀 Projetos em destaque
 
-- [🔍 Previsão de Churn com ML, GridSearch e MLflow](https://github.com/LeoMattosRamos/Predict-Churn.git)
+- [🔍 Previsão de Churn com Machine Learning, GridSearch e MLflow](https://github.com/LeoMattosRamos/Predict-Churn.git)
 
 *(em breve coloco mais por aqui)*
 
