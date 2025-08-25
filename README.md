@@ -17,6 +17,7 @@ Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Pyth
 
 - [🔍 Previsão de Churn com Machine Learning, GridSearch e MLflow](https://github.com/LeoMattosRamos/Predict-Churn.git)
 - [📱 Clusterização de Clientes - Machine Learning para segmentação de clientes baseado em comportamento de compra](https://github.com/LeoMattosRamos/Churn_prediction_machine_learning.git)
+  *em breve coloco adiciona mais por aqui...*
 
 ---
 ## 🤝 Bora trocar uma ideia?
