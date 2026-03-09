@@ -2,12 +2,12 @@
 
 Sou apaixonado por esportes, dados e tecnologia.
 
-🎓 Sou engenheiro de formação, mas foi analisando dados que eu me encontrei (até o momento kkkk).
+🎓 Sou engenheiro de formação, mas foi na área de tecnologia e dados que eu me encontrei (até o momento kkkk).
 
-Comecei minha carreira em vendas técnicas, onde aprendi a escutar com atenção e entender o que realmente importa para os clientes. Foi ali que descobri como a análise de dados pode fazer a diferença na tomada de decisões e trazer resultados reais para o negócio.
+Comecei minha carreira em vendas técnicas, onde aprendi a escutar com atenção e entender o que realmente importa para os clientes. Foi ali que descobri como a tecnologia e análise de dados pode fazer a diferença na tomada de decisões e trazer resultados reais para o negócio.
 Desde então, venho atuando na transformação de dados brutos em insights claros e ações efetivas.
 
-Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Python, SQL e Excel** para transformar dados em soluções de verdade. Curto automatizar processos, traduzir números em histórias e utilizar dados para resolver problemas reais.
+Hoje, atuo com **Data Analytics, BI e IA**, usando ferramentas como **Python, SQL, N8N, Power BI** para transformar dados em soluções de verdade. Curto automatizar processos, traduzir números em histórias e utilizar dados para resolver problemas reais.
 
  📚 Atualmente, meu foco é  **Machine Learning** e **Inteligência artificial**. Por isso estou estudando a base teórica e mergulhando em projetos práticos — como **modelos de previsão de churn, clusterização de clientes, sistemas de recomendação, etc**.
  
