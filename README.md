@@ -10,7 +10,7 @@ Desde então, venho atuando na transformação de dados brutos em insights claro
 Hoje, atuo com **Data Analytics e BI**, usando ferramentas como **Power BI, Python, SQL e Excel** para transformar dados em soluções de verdade. Curto automatizar processos, traduzir números em histórias e utilizar dados para resolver problemas reais.
 
 📚 Atualmente, meu foco é  **Machine Learning** e **Inteligência artificial**. Por isso estou estudando a base teórica e mergulhando em projetos práticos — como **modelos de previsão de churn, clusterização de clientes, sistemas de recomendação, etc**. 
-
+Além disso, estou criando sistemas com agentes de IA para resolver problemas de negócio, utilizando webhooks, APIs e RAG para de fato criar soluções robustas e com real valor no dia dia de negócios: aumentando agilidade e eficiência na operação, garantindo ROI do projeto.
 --- 
 
 ## 🚀 Projetos em destaque
