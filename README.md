@@ -19,6 +19,7 @@ Além disso, estou criando sistemas com agentes de IA para resolver problemas de
 
 - [🔍 Previsão de Churn com Machine Learning, GridSearch e MLflow](https://github.com/LeoMattosRamos/Predict-Churn.git)
 - [📱 Clusterização de Clientes - Machine Learning para segmentação de clientes baseado em comportamento de compra](https://github.com/LeoMattosRamos/Clustering_clients.git)
+- [🤖 Sistema Inteligente de Atendimento e Qualificação de leads com IA](https://github.com/LeoMattosRamos/AI-RAG-Lead-Qualification-System)
   
   *(em breve coloco mais por aqui...)*
 
